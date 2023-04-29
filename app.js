@@ -1,7 +1,8 @@
 "use strict";
 
 // ============== global variables ============== //
-const endpoint = "";
+const endpoint =
+  "https://testing-d15fa-default-rtdb.europe-west1.firebasedatabase.app";
 let posts;
 
 // ============== load and init app ============== //
